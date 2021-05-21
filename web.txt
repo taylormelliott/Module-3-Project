@@ -1,0 +1,17 @@
+How does the internet work? 
+
+computers or (clients) connect to the internet via routers, satellite, etc. 
+Webistes like google, servers than hold data, send that data to clients when requested. 
+Data is not stored on the front end of a webiste. Things like passwords, usernames, account info, etc. are stored in servers.
+
+
+
+
+
+
+
+
+
+What happens when you click on a link?
+
+Your phone or computer makes a request to the server connected to the link you clicked on. Depending on the exact domain name and path entered at the end of the address will dictate what the server will identify as an endpoint and have an automatic send back feature attributed to that end point
